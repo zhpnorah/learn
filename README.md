@@ -1,2 +1,12 @@
 # learn
-git study 
+git study
+study it
+:wq
+
+
+
+
+
+wq
+:q
+i 
